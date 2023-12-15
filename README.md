@@ -21,3 +21,18 @@ Poi facciamo il commit e il secondo push
 - Iniziate stampando un `console.log('JS OK')` per assicurarvi che la pagina sia  correttamente collegata.
 - Commentate ogni micro step e subito dopo verificate col (`console.log()`)
 - **Disattivate Live Server** finchè lavoriamo coi prompt o gli alert perchè potrebbe dar luogo a comportamenti strani
+<br>
+<br>
+<hr>
+
+
+
+
+# Passaggi da fare
+
+- **1** Dichiaro le variabili per contenere il nome, il cognome e il colore.
+- **2** Creo la variabile che contiene il numero 21.
+- **3** Creo variabile vuota password.
+- **4** Chiedo all'utente il nome , cognome e colore.
+- **5** Inserisco i dati chiesti all'utente nella variabile password e ci aggiungo il 21(che in questo caso sarà una stringa).
+- **6** Prendo l'elemento del file HTML e ci aggiungo la stringa concatenata in precedenza.
