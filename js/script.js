@@ -30,3 +30,6 @@ password = firstname + surname + color + number;
 console.log(password);
 
 
+// Stampo la stringa password generata
+
+document.getElementById('result').innerHTML += password;
