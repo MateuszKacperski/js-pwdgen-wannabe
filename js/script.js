@@ -12,3 +12,15 @@ const number='21';
 
 console.log(firstname, surname, color, password, number);
 
+// Chiedo all'utente i dati da inserire
+
+firstname = prompt('Come ti chiami ?');
+console.log(firstname);
+
+surname = prompt("Qual'è il tuo cognome ?");
+console.log(surname);
+
+color = prompt("Qual'è il tuo colore preferito ?");
+console.log(color);
+
+
