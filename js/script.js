@@ -24,3 +24,9 @@ color = prompt("Qual'è il tuo colore preferito ?");
 console.log(color);
 
 
+// Creo la password
+
+password = firstname + surname + color + number;
+console.log(password);
+
+
